@@ -10,7 +10,7 @@ Axiom Zeta Innovations builds engineered intelligence on open foundations — pr
 
 ## The ecosystem
 
-Nine projects. One standard of rigor. Every repository is public source — prototypes labeled prototypes, validated results labeled validated.
+Ten projects. One standard of rigor. Every repository is public source — prototypes labeled prototypes, validated results labeled validated.
 
 | Project | What it is |
 |---|---|
@@ -23,6 +23,7 @@ Nine projects. One standard of rigor. Every repository is public source — prot
 | [Hypercross Nexus](https://github.com/axiomzeta/hypercross-crypto-fire-rose-cross-nexus) | Crypto trading platform — strategy infrastructure for volatile markets |
 | [Quadra Matrix](https://github.com/axiomzeta/quadra-matrix777) | Experimental reasoning infrastructure — the lab bench behind the products |
 | [Syzygy PMT](https://github.com/axiomzeta/syzygy-pmt) | Pattern-mapping research — finding signal where others see noise |
+| [AI Change Radar](https://github.com/axiomzeta/ai-change-radar) | Weekly AI vendor change briefs — proprietary |
 
 ---
 
