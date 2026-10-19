@@ -10,7 +10,7 @@ Axiom Zeta Innovations builds engineered intelligence on open foundations — pr
 
 ## The ecosystem
 
-Ten projects. One standard of rigor. Every repository is public source — prototypes labeled prototypes, validated results labeled validated.
+Eleven projects. One standard of rigor. Every repository is public source — prototypes labeled prototypes, validated results labeled validated.
 
 | Project | What it is |
 |---|---|
@@ -24,6 +24,7 @@ Ten projects. One standard of rigor. Every repository is public source — proto
 | [Quadra Matrix](https://github.com/axiomzeta/quadra-matrix777) | Experimental reasoning infrastructure — the lab bench behind the products |
 | [Syzygy PMT](https://github.com/axiomzeta/syzygy-pmt) | Pattern-mapping research — finding signal where others see noise |
 | [AI Change Radar](https://github.com/axiomzeta/ai-change-radar) | Weekly AI vendor change briefs — proprietary |
+| [IFT Quantum Circuit Experiment](https://github.com/axiomzeta/ift-quantum-circuit-experiment) | Adaptive simplicial-manifold quantum research prototype |
 
 ---
 
