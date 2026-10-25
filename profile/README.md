@@ -38,8 +38,8 @@ Finished systems and managed services — built by Axiom Zeta, run for the peopl
 
 - **Quadra-Seer Sovereign** — a sovereign reasoning system that runs on your own machine, under your control. Balanced, auditable, built to be inspected. Licensed per subscription under its EULA.
 - **Thoth Crypto Prophet** — a crypto market-intelligence workbench: live data, seven mechanism signals, and an honest backtest auditor that shows its limits. $49.99/mo.
-- **AI Change Radar** — weekly briefs that track AI vendor product, pricing, security, and policy changes for SMBs, with the practical next step for each. [aichangeradar.com](https://aichangeradar.com)
-- **Services** — Vendor Intelligence Briefings, AI Adoption Advisory Sprints, AI Reliability Audits, and Private AI Assistant Deployment. [axiomzetainnovations.com](https://axiomzetainnovations.com)
+- **AI Change Radar — Vendor Intelligence Briefings** — weekly briefs that track AI vendor product, pricing, security, and policy changes for SMBs, interpreted against your stack, with the practical next step for each. [aichangeradar.com](https://aichangeradar.com)
+- **Services** — AI Adoption Advisory Sprints, AI Reliability Audits, and Private AI Assistant Deployment. [axiomzetainnovations.com](https://axiomzetainnovations.com)
 
 **In development — Sentinel.** Drift prevention gateways for LLM and RAG systems, in Solo, Teams, and Sovereign tiers. In active development and not yet on sale — coming soon.
 
