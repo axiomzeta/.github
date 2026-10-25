@@ -34,10 +34,14 @@ AI Change Radar — weekly AI vendor change briefs — is a private, proprietary
 
 ## Commercial products
 
-**Proprietary code. Paid operations.** Axiom Zeta software is Axiom Zeta property — no license is granted except where a repository's own LICENSE or EULA says so. You pay for hosted infrastructure, managed pipelines, human expertise, and licensed use.
+Finished systems and managed services — built by Axiom Zeta, run for the people who use them. Products are licensed for use, never sold as code; each repository states its own terms, and anything without a stated license is Axiom Zeta property, all rights reserved.
 
-- **Sentinel** — drift prevention gateways for LLM and RAG systems. Solo, Teams, Sovereign tiers. In active development — coming soon.
-- **Thoth Crypto Prophet** — market intelligence workbench. Live data, seven mechanism signals, honest backtests. $49.99/mo.
+- **Quadra-Seer Sovereign** — a sovereign reasoning system that runs on your own machine, under your control. Balanced, auditable, built to be inspected. Licensed per subscription under its EULA.
+- **Thoth Crypto Prophet** — a crypto market-intelligence workbench: live data, seven mechanism signals, and an honest backtest auditor that shows its limits. $49.99/mo.
+- **AI Change Radar** — weekly briefs that track AI vendor product, pricing, security, and policy changes for SMBs, with the practical next step for each. [aichangeradar.com](https://aichangeradar.com)
+- **Services** — Vendor Intelligence Briefings, AI Adoption Advisory Sprints, AI Reliability Audits, and Private AI Assistant Deployment. [axiomzetainnovations.com](https://axiomzetainnovations.com)
+
+**In development — Sentinel.** Drift prevention gateways for LLM and RAG systems, in Solo, Teams, and Sovereign tiers. In active development and not yet on sale — coming soon.
 
 ---
 
